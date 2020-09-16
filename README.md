@@ -1,2 +1,2 @@
-# kickstarter-analysis
-Analysis on kickstarter data for trends - module 1
+# Analysis of Kickstarter Campaigns
+Analysis on kickstarter data for trends (module 1)
