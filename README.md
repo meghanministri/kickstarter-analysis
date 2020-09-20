@@ -10,7 +10,7 @@ I used Excel tools and formulas to analyze the Kickstarter data in two ways – 
 
 I used the “Year” function in excel to categorize the Date Created Conversion by year. I then created a pivot table to provide better insight into the total successful, failed and canceled theater programs based on the month in which they were launched. I used “Parent Category” and “Years” as the filters for the table and filtered Parent Category for “Theater.” I then added “Date Created Conversion” in the rows field to separate the data by month. I added “Outcomes” in both the columns field and the values field to categorize the data by each type of outcome with the total number of shows per month. Using this Pivot Table, I added a Pivot Chart to visualize the outcomes by launch date each month. 
 
-![Theater_Outcomes_vs_Launch](Desktop/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 To analyze the outcomes by fundraising goal, I created a table based on the number of successful, failed or canceled plays within each fundraising goal range. I created the goal column to separate the fundraising amounts into $5,000 ranges, from less than $1,000 to greater than $50,000. I used the “COUNTIFS” function to determine the amount of successful, failed and canceled plays in each goal range. After finding the total in each range, I calculated the percentage successful, failed and canceled. I used this data to create a chart showing the ranges on the percentage of each outcome at each goal range. 
 
